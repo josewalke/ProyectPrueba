@@ -1,0 +1,57 @@
+# Archivos generados por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos específicos de Unity
+# Evita ignorar Assets y ProjectSettings
+/[Aa]ssets/StreamingAssets/
+/[Pp]rojectSettings/EditorBuildSettings.asset
+/[Pp]rojectSettings/EditorSettings.asset
+
+# Configuración de usuario y preferencias locales
+[Uu]serSettings/
+
+# Archivos de caché
+.vscode/
+.idea/
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+
+# Archivos de respaldo y temporales
+*.bak
+*.ncrunch*
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# Archivos de sistema
+.DS_Store
+.DS_Store?
+._*
+[Tt]humbs.db
+desktop.ini
+
+# Archivos de compilación de Unity Cloud
+sysinfo.json
+
+# Carpetas opcionales
+/Builds/
+/ExportedObj/
+/.gh/
+/*.apk
+/*.aab
+/*.zip
+
+# Archivos adicionales específicos de plataformas (ajusta según tu caso)
+/Assets/*.dll
+/Assets/*.pdb
+/Assets/*.meta
