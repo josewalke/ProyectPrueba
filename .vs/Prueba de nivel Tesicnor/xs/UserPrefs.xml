@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{62360334-A1D9-5D1F-0FDC-AF1CD17310D3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Candidato/Task 1/Script/Interactable/FollowInteractable.cs">
+    <Files>
+      <File FileName="Assets/Candidato/Task 1/Script/PlayerController.cs" Line="5" Column="5" />
+      <File FileName="Assets/Candidato/Task 1/Script/ImpulseInteractable.cs" Line="25" Column="1" />
+      <File FileName="Assets/Candidato/Task 1/Script/DeactivateInteractable.cs" Line="10" Column="1" />
+      <File FileName="Assets/Candidato/Task 1/Script/CameraController.cs" Line="35" Column="1" />
+      <File FileName="Assets/Candidato/Task 1/Script/Interface/IInteractable.cs" Line="5" Column="1" />
+      <File FileName="Assets/Candidato/Task 1/Script/CharacterMovement.cs" Line="24" Column="1" />
+      <File FileName="Assets/Candidato/Task 1/Script/Interface/IMovementController.cs" Line="8" Column="1" />
+      <File FileName="Assets/Candidato/Task 1/Script/Utils/CursorManager.cs" Line="31" Column="1" />
+      <File FileName="Assets/Candidato/Task 1/Script/Interactable/FollowInteractable.cs" Line="39" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prueba de nivel Tesicnor" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cd2c98ab-1cf8-45f9-82a2-eec1776d4153" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
