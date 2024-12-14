@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement; // Necesario para cambiar de escena
 
 public class CursorManager : MonoBehaviour
 {
@@ -14,6 +15,7 @@ public class CursorManager : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             UnlockCursor(); // Desbloquea el cursor al presionar Escape
+            SceneManager.LoadScene("Task 3"); // Cambia a la escena "Task 3"
         }
         else if (Input.GetMouseButtonDown(0) && !isCursorLocked)
         {
